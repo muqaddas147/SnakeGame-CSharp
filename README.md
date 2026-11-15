@@ -38,6 +38,14 @@ This project is a desktop-based Snake Game where the player controls a snake to 
 - `Form1.cs` – Game interface
 - `HighScoreManager.cs` – High-score management
 
+## Screenshots
+
+### Main Menu
+![Main menu](screenshot1.png)
+
+### Gameplay
+![Gameplay](screenshot2.png)
+
 ## 🎮 How to Run
 
 1. Download or clone this repository.
